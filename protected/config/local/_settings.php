@@ -3,9 +3,9 @@
   array (
     'db' => 
     array (
-      'connectionString' => 'mysql:host=85.17.73.180;dbname=medlibro_cba_pl',
-      'username' => 'adminmedlibro',
-      'password' => 'Atechno1',
+      'connectionString' => 'mysql:host=sql5.freemysqlhosting.net;dbname=sql578137',
+      'username' => 'sql578137',
+      'password' => 'nT4!xV1%',
     ),
     'cache' => 
     array (
@@ -29,13 +29,13 @@
     array (
       'db' => 
       array (
-        'installer_hostname' => 'mysql.cba.pl',
-        'installer_database' => 'medlibro_cba_pl',
+        'installer_hostname' => 'sql5.freemysqlhosting.net',
+        'installer_database' => 'sql578137',
       ),
     ),
     'installed' => true,
   ),
-  'name' => 'MedLi',
+  'name' => 'MedLibro',
   'language' => 'pl',
   'theme' => 'HumHub',
 ); ?>
