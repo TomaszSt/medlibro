@@ -119,7 +119,7 @@ class Zend_Db
     const ATTR_SERVER_VERSION = 4;
     const ATTR_STATEMENT_CLASS = 13;
     const ATTR_STRINGIFY_FETCHES = 17;
-    const ATTR_TIMEOUT = 2;
+    const ATTR_TIMEOUT = 5;
     const CASE_LOWER = 2;
     const CASE_NATURAL = 0;
     const CASE_UPPER = 1;

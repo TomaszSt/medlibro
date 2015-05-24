@@ -209,6 +209,7 @@ textarea {
   top: 50px;
   background-color: #f8f8f8;
   z-index: 1029;
+  height: 70px;
 }
 #topbar-second .dropdown-menu {
   padding-top: 0;
@@ -335,6 +336,7 @@ textarea {
 .panel-profile .panel-profile-header .img-profile-data h1 {
   font-size: 30px;
   font-weight: 100;
+  margin-top: 10px;
   margin-bottom: 7px;
   color: #fff;
   max-width: 600px;

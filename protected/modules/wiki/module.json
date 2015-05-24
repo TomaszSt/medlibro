@@ -1,0 +1,11 @@
+{
+    "id": "wiki",
+    "name": "Wiki",
+    "description": "Wiki for spaces.",
+    "keywords": ["wiki"],
+    "version": "0.9.3",
+    "humhub": {
+        "minVersion": "0.11"
+    },
+    "screenshots": ["assets/screen1.jpg", "assets/screen2.jpg", "assets/screen3.jpg"]
+}
